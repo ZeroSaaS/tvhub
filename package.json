@@ -1,0 +1,11 @@
+{
+  "name": "tvhub",
+  "version": "1.0.0",
+  "description": "TizenBrew loader for a self-hosted TV Hub. The app itself is served from a home server on the LAN.",
+  "packageType": "mods",
+  "appName": "TV Hub",
+  "websiteURL": "http://192.168.1.13:8095/tv/",
+  "main": "inject.js",
+  "keys": ["ColorF0Red", "ColorF1Green", "ColorF2Yellow", "ColorF3Blue"],
+  "license": "MIT"
+}
